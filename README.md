@@ -17,11 +17,6 @@ The following hyperparameters were used during training:
 - lr_scheduler_type: linear
 - num_epochs: 2
 
-Training results
-Training Loss 	Epoch 	Step 	Validation Loss 	Accuracy 	F1
-0.7964 	1.0 	250 	0.3116 	0.908 	0.9070
-0.2431 	2.0 	500 	0.2116 	0.9275 	0.9275
-
 SEE THE MODEL CARD FOR MORE INFO AT
 https://huggingface.co/feladorhet/distilbert-base-uncased-finetuned-emotion
 
